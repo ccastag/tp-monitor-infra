@@ -30,7 +30,7 @@ ARCHIVO_LOG = os.path.expanduser("~/Documents/eventos_carpeta.log")
 # --- 3. NUESTRO "VIGILANTE" (que hacer ante cada cambio) ------
 
 # Creamos nuestra propia clase que hereda de FileSystemEventHandler.
-# Heredar significa que aprovechamos todo lo que ya sabe hacer watchdog
+# Heredar significa que aprovechamos_todo lo que ya sabe hacer watchdog
 # y solo definimos como reaccionar a cada tipo de evento.
 class Vigilante(FileSystemEventHandler):
 
