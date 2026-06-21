@@ -1,6 +1,6 @@
 # ============================================================
 #  MONITOR DE INFRAESTRUCTURA - Automatizacion con Python
-#  TP Programacion 1 - Soporte de Infraestructura - ISTEA
+#  TP Programacion - Soporte de Infraestructura - ISTEA
 #  Librerias: subprocess + schedule
 # ============================================================
 
